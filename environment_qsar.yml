@@ -1,0 +1,18 @@
+name: qsar
+channels:
+  - conda-forge
+dependencies:
+  - python=3.10.17
+  - rdkit
+  - pip
+  - pip:
+      - streamlit
+      - pandas
+      - numpy
+      - scikit-learn
+      - xgboost
+      - lightgbm
+      - catboost
+      - matplotlib
+      - joblib
+      - h2o
