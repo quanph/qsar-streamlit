@@ -1,0 +1,1 @@
+# Placeholder for QSAR Streamlit app – previously completed app.py content
